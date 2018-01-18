@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.1.0_58f802e62d24c8cd6fd14dbfd38df8f7229adbeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-26.0.0-alpha1_1633aafbcf9557bcb3290f01f58eaf15de6dd99f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_826a0beccd6a61fa2c9ca796e98073015528514a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_69a0b7ff1be2c2321ee5ec1db38107fdc34c1650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_aadabc414566c4f0b5a2e75a624b1d4716e48301.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/gson-2.7_569a2de76cec40b006ea00ae5375260892634a33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_7f48aa1af896916745e8756fb3967bf549816c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_7c8bfd0fe1d0721fb50fe750c2d6b8ac1129ae40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_50f19ab22c0b17a35b8e78ec9f377d082a2a6f0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_adecad8a2a64179631c2f5efda52ab4a54af2059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_b1578481f1ddfdc7361b6fa700e3fd169b349f30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.0.0-alpha1_6e7a2c732c8e1c19aa3ad915830cd3e53688dd4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_2a9db3a21c1eaedeb17b95bb0bc9d21f02c58037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_f0a90f1857cafabac0d408f8d09fdf5f8675d994.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.0.0-alpha1_ce981f7a41a4f0992457b12f9bfc9f8e2b955e1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_7c39358b28f1663a7b45be53b3e17b83113edb16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7763269feed41d2bc9d1c8a3998bed5bc43ea74f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_9f8b015d51a0a396b624790545a3dc1ef7880ecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_9e4220d4d87d02a322028b84e6a3904e5e0106a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_7b788e692e8a9574f42b34547cde1bf4fd1ab160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_29f8554d3b8e25a75f211ce7f11db48522489547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_a1c6368841e419f6b8e9becc5f5fbf433d89dda7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_2b60a4250d94a721ce0506d22bf05a27dd839d9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_4d417292584d3f0ee8bdf8832c3179ea19389dbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/franciscoioneitondasilva/Documents/Mobillia/avaliacao-pre-anestesica/AndroidCandidateTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_653d9e0a0c4aacec1f1f24011a3089ce4a1fe49c.jar" />
+    </item>
+
+</items>
